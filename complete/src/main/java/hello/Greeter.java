@@ -2,6 +2,7 @@ package hello;
 
 public class Greeter {
 	public String sayHello() {
-		return "Hello world!";
+		String greeting = "Hello world!";
+		return greeting;
 	}
 }
